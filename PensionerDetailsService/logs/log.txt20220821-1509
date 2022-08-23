@@ -1,0 +1,9 @@
+2022-08-21 15:09:35,559 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+2022-08-21 15:09:36,019 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Application started. Press Ctrl+C to shut down.
+2022-08-21 15:09:36,023 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+2022-08-21 15:09:36,024 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Hosting environment: Development
+2022-08-21 15:09:36,027 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\912682\FSE0\Backend\Pension_Management\PensionerDetailsMicroservice
+2022-08-21 15:09:36,029 INFO  Microsoft.Hosting.Lifetime.OnApplicationStarted [0] - MESSAGE: Content root path: C:\Users\912682\FSE0\Backend\Pension_Management\PensionerDetailsMicroservice
+2022-08-21 15:09:44,613 INFO  PensionerDetailsMicroservice.Controllers.PensionerDetailsController.MoveNext [40] - MESSAGE:  Http GET Request From GetPensionerDetails method of: PensionerDetailsController
+2022-08-21 15:09:44,873 INFO  PensionerDetailsMicroservice.Repository.PensionerDetailRepository.MoveNext [28] - MESSAGE: Pensioner details feched in ReadCSVFile method of: PensionerDetailRepository
+2022-08-21 15:09:44,877 INFO  PensionerDetailsMicroservice.Controllers.PensionerDetailsController.MoveNext [50] - MESSAGE: Pensioner details returned From GetDetails method of: PensionerDetailsController

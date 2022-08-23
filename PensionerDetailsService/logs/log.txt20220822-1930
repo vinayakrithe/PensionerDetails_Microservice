@@ -1,0 +1,5 @@
+2022-08-22 19:30:14,484 INFO  PensionerDetailsService.Controllers.PensionerDetailsController.MoveNext [28] - MESSAGE:  Http GET Request From GetDetails method of: PensionerDetailsController
+2022-08-22 19:30:14,856 INFO  PensionerDetailsService.Repository.PensionerDetailRepository.MoveNext [28] - MESSAGE: Pensioner details feched in ReadCSVFile method of: PensionerDetailRepository
+2022-08-22 19:30:25,769 INFO  PensionerDetailsService.Controllers.PensionerDetailsController.MoveNext [40] - MESSAGE:  Http GET Request From GetPensionerDetails method of: PensionerDetailsController
+2022-08-22 19:30:25,777 INFO  PensionerDetailsService.Repository.PensionerDetailRepository.MoveNext [28] - MESSAGE: Pensioner details feched in ReadCSVFile method of: PensionerDetailRepository
+2022-08-22 19:30:25,779 INFO  PensionerDetailsService.Controllers.PensionerDetailsController.MoveNext [50] - MESSAGE: Pensioner details returned From GetDetails method of: PensionerDetailsController
