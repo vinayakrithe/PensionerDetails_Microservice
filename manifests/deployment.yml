@@ -1,0 +1,19 @@
+apiVersion : apps/v1
+kind: Deployment
+metadata:
+  name: vinayakrithepensionerdetailsmicroservice 
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: vinayakrithepensionerdetailsmicroservice
+  template:
+    metadata:
+      labels:
+        app: vinayakrithepensionerdetailsmicroservice 
+    spec:
+      containers:
+        - name: vinayakrithepensionerdetailsmicroservice 
+          image: pmscontainerregistery.azurecr.io/vinayakrithepensionerdetailsmicroservice
+          ports:
+          - containerPort: 80
